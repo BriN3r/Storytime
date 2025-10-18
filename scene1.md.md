@@ -1,7 +1,8 @@
-<h1>The Crystal Ball</h1>
+<h1>The Crystal Ball :zap:</h1>
 
-<p1>"[You walk into an old antique store and see a crystal ball, it starts to swirl 2 colors. Which color do you try to touch?]",</p>
+<p1>"[You walk into an old antique store & see a crystal ball, it starts to swirl 2 colors.
+Which color do you try to touch?]",</p>
 
-[Red] go to Scene2a
+[Red]()
 
 [Blue] go to Scene2b
