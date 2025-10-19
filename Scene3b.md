@@ -4,4 +4,4 @@
 
 <p>[Hot](https://github.com/BriN3r/Storytime/blob/master/scene4a.md)</p>
 
-<p>[Iced]</p>
+<p>[Iced](https://github.com/BriN3r/Storytime/blob/master/scene4b.md)</p>
