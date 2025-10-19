@@ -4,4 +4,4 @@
 
 <p>[Left](https://github.com/BriN3r/Storytime/blob/master/Scene3a.md)</p>
 
-<p>[Right]</p>
+<p>[Right] (https://github.com/BriN3r/Storytime/blob/master/Scene3b.md)</p>
