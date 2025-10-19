@@ -4,4 +4,4 @@
 
 <p>[Go inside](https://github.com/BriN3r/Storytime/blob/master/scene6a.md)</p>
 
-<p>[Keep walking]</p>
+<p>[Keep walking](https://github.com/BriN3r/Storytime/blob/master/scene6b.md)</p>
