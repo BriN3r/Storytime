@@ -4,4 +4,4 @@
 
 <p>[Walk down the street](https://github.com/BriN3r/Storytime/blob/master/scene5a.md)</p>
 
-<p>[Call a friend]</p>
+<p>[Call a friend](https://github.com/BriN3r/Storytime/blob/master/scene5b.md)</p>
