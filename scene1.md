@@ -4,4 +4,4 @@
 Which color do you try to touch?</p>
 
 <p>[Red](https://github.com/BriN3r/Storytime/blob/master/scene2a)</p>
-<p>[Blue]()</p>
+<p>[Blue](https://github.com/BriN3r/Storytime/blob/master/Scene2b.md)</p>
