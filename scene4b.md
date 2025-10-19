@@ -4,4 +4,4 @@
 
 <p>[Take pill](https://github.com/BriN3r/Storytime/blob/master/scene5a1.md)</p>
 
-<p>[Throw it away]</p>
+<p>[Throw it away](https://github.com/BriN3r/Storytime/blob/master/scene5b1.md)</p>
